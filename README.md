@@ -11,7 +11,6 @@
     - ✨ https://patricchubaca.github.io/Alura-Play/
     - ✨ https://patricchubaca.github.io/Discovering-Js/
       
-
     - ✨ PHP
     - Links to access a repository with knowledge of PHP and Linux OS :
     - ✨ https://github.com/patricchubaca/Discovering-PHP
