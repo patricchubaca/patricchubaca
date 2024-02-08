@@ -1,4 +1,16 @@
 
+- 👋 Hi, I’m @patricchubaca
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+patricchubaca/patricchubaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
 ``` 👋 Hi, I’m @patricchubaca
 - 👀  I’m interested learning, aways learne.
 - I'm Full Stack Jr developer and I've been specializing every day to improve in software development.
