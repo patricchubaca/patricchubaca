@@ -1,5 +1,7 @@
-
+```
 - 👋 Hi, I’m @patricchubaca
+```
+
 - 👀  I’m interested learning, aways learne.
 - I'm Full Stack Jr developer and I've been specializing every day to improve in software development.
 - 🌱 I’m currently learning Softwere Development ...
