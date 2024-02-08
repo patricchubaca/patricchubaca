@@ -15,6 +15,3 @@
   - Links to access a repository with knowledge of PHP and Linux OS :
   - ✨ https://github.com/patricchubaca/Discovering-PHP
 
-<!---
-patricchubaca/patricchubaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
----!>
