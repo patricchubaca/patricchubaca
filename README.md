@@ -10,7 +10,7 @@
   - Links for web access to projects built from courses:
   -  ✨ https://patricchubaca.github.io/Alura-Play/
   -  ✨ https://patricchubaca.github.io/Discovering-Js/
-  -  -  ✨ https://patricchubaca.github.io/Alurinha/
+  -  ✨ https://patricchubaca.github.io/Alurinha/
 
 -  ✨ PHP
   - Links to access a repository with knowledge of PHP and Linux OS :
